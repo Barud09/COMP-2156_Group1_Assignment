@@ -1,0 +1,3 @@
+COMP2156 -DevOps for System Administration is a course that teaches the
+techniques employed by DevOps engineer to increase productivity in the 
+workplace. 
