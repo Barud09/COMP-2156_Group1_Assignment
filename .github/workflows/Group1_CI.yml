@@ -1,18 +1,16 @@
 name: Group 1 Continous Integration
 on: 
     pull_request:
-      types:
-        - closed
+     branches: main
 jobs:
-if_merged:
-  if: github.event.pull_request.merged == true
-runs-on: ubuntu-latest
-steps:
-- run: echo "The job is triggered when a group member merges to main.
-- name: Reads new code
-uses: actions/checkout@v4
-- run: echo "The ${{ github.repository }} repository has been read. Preparing for output."
-- name: List files in the repository
-run: |
-ls ${{ github.workspace }}
-- run: echo "This job's status is ${{ job.status }}."
+    Read_Repository:
+      runs-on: ubuntu-latest
+      steps:
+        - run: echo "The job is triggered when a group member makes a pull request."
+        - name: Reads new code
+          uses: actions/checkout@v4
+        - run: echo "The ${{ github.repository }} repository has been read. Preparing for output."
+        - name: List files in the repository
+          run: |
+           ls ${{ github.workspace }}
+        - run: echo "This job's status is ${{ job.status }}."
