@@ -5,3 +5,7 @@ workplace.
 This course is administered using regular labs and quizzes, 
 one group assignment,and a midterm and final exam. Students meet for one
 lecture and one lab per week.  
+
+The group assignment is due on week 6, the midterm is held on week 7, the 
+individual assignment is due week 12, and the final exam will be held on
+week 15.
