@@ -20,3 +20,7 @@ The Devops lifecycle can be broken down into 6 components:
 5. Continuous Monitoring
 
 6. Software Released
+
+
+3 popular Devops tools are Github, Maven, and Selenium. For the purpose of
+this course we will be using github.
