@@ -3,3 +3,7 @@ Ontario, Canada.
 
 George Brown College is a public college chartered by the Government of 
 Ontario in 1966. The college has 3 campuses in Toronto.
+
+The program "Computer Systems Technician" is located at the Casa Loma campus.
+The Casa Loma campus hosts the school of Computer Technology. The campus has 
+4 buildings - C,D,E, and F. C is the main building of the Campus.
