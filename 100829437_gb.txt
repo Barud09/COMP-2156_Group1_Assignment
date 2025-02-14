@@ -1,2 +1,13 @@
-George Brown College is a post secondary insutution located on Toronto,
-Ontario, Canada
+George Brown College is a post secondary institution located on Toronto,
+Ontario, Canada.
+
+George Brown College is a public college chartered by the Government of 
+Ontario in 1966. The college has 3 campuses in Toronto.
+
+The program "Computer Systems Technician" is located at the Casa Loma campus.
+The Casa Loma campus hosts the school of Computer Technology. The campus has 
+4 buildings - C,D,E, and F. C is the main building of the Campus.
+
+George Brown College opened up a student residence in 2016. This residence 
+is located at 80 Cooperage St. E. Before George Brown took ownership, the 
+bulding was part of the 2015 Pan Am/Para Pan Am Games Athletes Village. 
