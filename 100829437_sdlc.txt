@@ -6,3 +6,17 @@ The continuous delivery of software.
 Better collaboration between teams.
 
 Easy deployment.
+
+The Devops lifecycle can be broken down into 6 components:
+
+1. Source Code Management
+
+2. Continous Build and Test
+
+3. Continuous Integration
+
+4. Continuous Deployment
+
+5. Continuous Monitoring
+
+6. Software Released
