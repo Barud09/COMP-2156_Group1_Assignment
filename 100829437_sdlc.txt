@@ -1,2 +1,8 @@
-DevOps is valuable to learn as it brings the following to the 
-Software Development Lifecycle:
+DevOps is valuable to learn as it brings, among other benefits, the following
+ to the Software Development Lifecycle:
+
+The continuous delivery of software.
+
+Better collaboration between teams.
+
+Easy deployment.
