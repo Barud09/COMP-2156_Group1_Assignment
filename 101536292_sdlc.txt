@@ -5,4 +5,5 @@ There are 4,000+ Software Development Life Cycle Sdlc Jobs in Canada
 Jobs in the Software Development Life Cycle (SDLC) include project manager, functional analyst, QA engineer, and product manager.
 The Software Development Life Cycle (SDLC) began in the 1960s as a way to manage software development.
 The future of the Software Development Lifecycle (SDLC) is expected to be transformed by artificial intelligence (AI), automation, and other technologies.
- The key goals of SDLC are to create a high-quality product that meets the client's needs.
+The key goals of SDLC are to create a high-quality product that meets the client's needs.
+The SDLC involves planning the project, gathering requirements, designing the system, coding the software, testing it for issues, deploying it to users, and maintaining it post-release.
