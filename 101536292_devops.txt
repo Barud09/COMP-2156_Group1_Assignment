@@ -5,3 +5,4 @@ DevOps skills are in high demand in Canada due to the rapid growth of digital so
 DevOps jobs include automation expert, DevOps engineer, platform engineer, and building engineer. 
 The DevOps movement started to coalesce some time between 2007 and 2008.
 DevOps practices are expected to continue to evolve to meet the demands of a rapidly changing technological landscape. 
+The key goals of DevOps are to improve collaboration, speed up delivery, and enhance customer experience. 
