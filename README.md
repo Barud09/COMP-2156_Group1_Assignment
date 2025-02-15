@@ -3,6 +3,7 @@
 - **Leader:** Abdirahman Barud (100829437) - [GitHub](https://github.com/Barud09)
 - **Member 2:** Ronit Batchra (101536292) - [GitHub](https://github.com/ronitbatchra007)
 - **Member 3:** Archi Baroi (101034589) - [GitHub](https://github.com/ArchiAB)
+- **Member 4:** Valeriy Kvan (101419647) - [GitHub](https://github.com/ValeriyKvan11)
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
