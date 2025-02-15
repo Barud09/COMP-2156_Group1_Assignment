@@ -1,2 +1,2 @@
- It is possible to learn and work on DevOps without programming knowledge, but having some programming knowledge can be helpful in certain areas of DevOps.
-
+It is possible to learn and work on DevOps without programming knowledge, but having some programming knowledge can be helpful in certain areas of DevOps.
+DevOps has totally revolutionized the software industry by promoting collaboration between operations and development.
