@@ -1,1 +1,2 @@
 Importance of learning DevOps in the software development cycle.
+The Software Development Life Cycle (SDLC) consists of seven essential phases: Planning, Requirements Analysis, Design, Coding, Testing.
