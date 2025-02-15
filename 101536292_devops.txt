@@ -2,3 +2,4 @@ It is possible to learn and work on DevOps without programming knowledge, but ha
 DevOps has totally revolutionized the software industry by promoting collaboration between operations and development.
 Microsoft Learn helps you discover the tools and skills you need to become a DevOps engineer. 
 DevOps skills are in high demand in Canada due to the rapid growth of digital solutions and emerging technologies. 
+DevOps jobs include automation expert, DevOps engineer, platform engineer, and building engineer. 
