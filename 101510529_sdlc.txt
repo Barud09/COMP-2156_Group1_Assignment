@@ -3,6 +3,8 @@ commit number second
 third commit
 fourth
 this is my fifth commit
+I am enjoying the course commit nine
 this is sixth commit
 this is seventh commit
 commit eight
+nine
