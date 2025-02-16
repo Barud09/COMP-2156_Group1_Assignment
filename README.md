@@ -1,3 +1,6 @@
+101034589-Archi
+Hello world 
+test assignment
 # COMP2156_Group1_Assignment
 ## Group Members
 - **Leader:** Abdirahman Barud (100829437) - [GitHub](https://github.com/Barud09)
@@ -17,3 +20,4 @@ in `.github/workflows/ci.yml`.
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are
 merged into the `main` branch via Pull Requests.
+main

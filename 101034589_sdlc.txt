@@ -1,6 +1,4 @@
-Importance of learning DevOps in the software devlopment cycle
-sdlc.txt
-Importance of learning DevOps in the software devlopment cycle
+101034589-Archi
 Importance of learning DevOps in the software devlopment cycle
 1. Importance of learning DevOps in the software devlopment cycle
 2. group assignment
@@ -12,3 +10,4 @@ Importance of learning DevOps in the software devlopment cycle
 8. Name spelling updated. 
 9. Hellow world again update. 
 10. GitHub update. 
+101034589-Archi
