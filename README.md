@@ -8,6 +8,7 @@ test assignment
 - **Member 3:** Archi Baroi (101034589) - [GitHub](https://github.com/ArchiAB)
 - **Member 4:** Valeriy Kvan (101419647) - [GitHub](https://github.com/ValeriyKvan11)
 - **Member 5:** Chander Mohan Singh (101435863) - [GitHub](https://github.com/ChanderMohan42)
+- **Member 5:** Samarvir kaur (101510529) - [GitHub](https://github.com/skaur123467)
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
