@@ -1,2 +1,3 @@
 George brown
 This is a second commit
+This is third commit and now i have idea how to commit files
