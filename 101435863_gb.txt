@@ -4,3 +4,4 @@ This is third commit and now i have idea how to commit files
 this is fourth commit
 this is fifth commit
 this isn my new commit
+this is seven commit new
